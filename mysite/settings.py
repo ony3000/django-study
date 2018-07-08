@@ -25,7 +25,7 @@ SECRET_KEY = 'bo2t!*0&s!xrz2xstjy!q-+)ybax1ud2x%8vc*q*@2ye5^+r^1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.hyum.zone']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.yourdomain.tld']
 
 
 # Application definition
