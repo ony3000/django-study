@@ -1,5 +1,5 @@
 # django-study
-장고걸스 튜토리얼 따라가기
+[장고걸스 튜토리얼](https://tutorial.djangogirls.org/ko/) 따라가기
 
 ## 개발 환경 (Back-end)
 - Ubuntu 16.04
