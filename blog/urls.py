@@ -8,4 +8,5 @@ urlpatterns = [
     url(r'^post/(?P<post_id>\d+)/edit/$', views.post_edit, name='post_edit'),
     url(r'^drafts/$', views.post_draft_list, name='post_draft_list'),
     url(r'^post/(?P<post_id>\d+)/publish/$', views.post_publish, name='post_publish'),
+    url(r'^post/(?P<post_id>\d+)/remove/$', views.post_remove, name='post_remove'),
 ]
